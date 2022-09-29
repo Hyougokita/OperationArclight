@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="lcci_hanota.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="21_merge_two_sorted_lists.cpp" />
     <ClCompile Include="344_reverse_string.cpp" />
