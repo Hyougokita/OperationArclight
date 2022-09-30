@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="203_remove_linked_list_elements.cpp" />
     <ClCompile Include="lcci_hanota.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="21_merge_two_sorted_lists.cpp" />
