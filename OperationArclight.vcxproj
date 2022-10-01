@@ -145,6 +145,9 @@
     <ClCompile Include="21_merge_two_sorted_lists.cpp" />
     <ClCompile Include="344_reverse_string.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="lcof_fan_zhuan._lian_biao.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
