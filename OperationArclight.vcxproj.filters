@@ -30,6 +30,9 @@
     <ClCompile Include="203_remove_linked_list_elements.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="26_remove-duplicates-from-sorted-array.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="lcof_fan_zhuan._lian_biao.cpp">
