@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="13_roman-to-integer.cpp" />
     <ClCompile Include="203_remove_linked_list_elements.cpp" />
     <ClCompile Include="26_remove-duplicates-from-sorted-array.cpp" />
     <ClCompile Include="27_remove-element.cpp" />
